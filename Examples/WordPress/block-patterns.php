@@ -7,8 +7,6 @@
  * 
  * @author Grant Kellie <contact@cascade.media>
  * @copyright June 26 2022 Cascade Media
- * @license Proprietary
- * You may not copy, distribute, modify or use this code.
  */
 function photonyx_locate_block_patterns(){
 	$paths = [
