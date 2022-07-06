@@ -14,7 +14,7 @@ function photonyx_locate_block_patterns(){
 	$paths = [
 		get_theme_file_path('/blocks/patterns'), // 
 	];
-	$files = new Theme\ThemeName\CascadeRecursiveFileLocator();
+	$files = new Theme\Photonyx\CascadeRecursiveFileLocator();
 	$data = $files->compileFiles($paths, ['html', 'css', 'js', 'php', 'json']); // Locate all Files under $path
 
 	$block_patterns = [];
