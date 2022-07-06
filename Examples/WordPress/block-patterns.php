@@ -1,6 +1,8 @@
+
 /**
- * @method CascadeIterator
+ * @method photonyx_locate_block_patterns
  * Auto Searches for files and directories within a given directory
+ * @uses CascadeRecursiveFileLocator
  * @return Array
  * 
  * @author Grant Kellie <contact@cascade.media>
@@ -12,7 +14,7 @@ function photonyx_locate_block_patterns(){
 	$paths = [
 		get_theme_file_path('/blocks/patterns'), // 
 	];
-	$files = new Theme\Photonyx\CascadeRecursiveFileLocator();
+	$files = new Theme\ThemeName\CascadeRecursiveFileLocator();
 	$data = $files->compileFiles($paths, ['html', 'css', 'js', 'php', 'json']); // Locate all Files under $path
 
 	$block_patterns = [];
