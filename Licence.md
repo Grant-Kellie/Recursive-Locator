@@ -1,6 +1,6 @@
 # Cascade Recursive Locators
 ## Copyright
-2022 Grant Kellie | Cascade Media <contact@cascade.media>
+2022 Grant Kellie
 
 ## Licence
 - You may not alter or remove any copyright or other notice from this file.  
