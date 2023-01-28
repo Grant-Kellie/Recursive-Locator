@@ -1,13 +1,11 @@
 <?php
 /**
- *  Cascade Media
- *  Website: https://cascade.media
- *  Author: Grant Kellie | contact@cascade.media
+ *  Website: https://grantkellie.dev
+ *  Author: Grant Kellie | contact@grantkellie.dev
  *  Created: 02/07/2022
- *  Modified: 06/07/2022 
+ *  Modified: 28/01/2023 
  *  Version 1.0.0
- * 
- *  Copyright 2022 Cascade Media
+ *  Copyright 2022 Grant Kellie
  * 
  *  Licence
  *  - You may not alter or remove any copyright or other notice from this file.
