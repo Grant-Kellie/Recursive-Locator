@@ -3,15 +3,9 @@
  *  Website: https://grantkellie.dev
  *  Author: Grant Kellie | contact@grantkellie.dev
  *  Created: 02/07/2022
- *  Modified: 28/01/2023 
+ *  Modified: 07/09/2024 
  *  Version 1.0.0
  *  Copyright 2022 Grant Kellie
- * 
- *  Licence
- *  - You may not alter or remove any copyright or other notice from this file.
- *  - You are free to use and modify this file for non-commercial projects.
- *  - You may not reproduce or distribute any of this file or its contents.
- *  - This file is provided "as is" without warranty or liability of any kind.
  * 
  *  About
  *  This class acts as a recursive file locator.
